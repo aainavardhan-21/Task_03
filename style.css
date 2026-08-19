@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;   
+}
+
+p {font-size: 18.5px;}
+
+.head {color: darkblue;}
+
+#bglime {background-color: #80BCA3;}
+#bglime span {color: red;}
+
+#para {color: green;}
+#para span {color: black;
+            font-size: 21px;}
+
+a {color: red;
+    background-color: lightgreen;
+   font-weight: bold;}
+a:hover {color: black;}
+
+ol > li:first-child ul li:nth-child(2) {color:purple;}
+ul > li:last-child {color: green;}
